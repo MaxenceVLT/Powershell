@@ -1,0 +1,1 @@
+﻿Get-WmiObject Win32_OperatingSystem | Select-Object Caption, Version, OSArchitecture, CSName, WindowsDirectory, BootDevice
